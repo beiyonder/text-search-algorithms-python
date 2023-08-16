@@ -35,3 +35,6 @@ The following image displays the benchmarking results of the algorithms using Ma
 ![Benchmark Results](Figure_1.png)
 
 
+![Figure_1](https://github.com/beiyonder/text-search-algorithms-python/assets/86228410/2492ee91-0794-47bf-8647-b507c27cec36)
+
+
