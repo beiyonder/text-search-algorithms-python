@@ -1,6 +1,6 @@
 # Text Search Algorithms Comparative Analysis
 
-This project implements and compares different text search algorithms for efficient substring searching within a given text. The project analyzes the time complexities, memory usage, and practical performance of the algorithms on real-world text data.
+This project implements and compares different text search algorithms for efficient substring searching within a given text. The project analyzes the time complexities, memory usage, and practical performance of the algorithms on real-world text data (?). not really
 
 ## Algorithms Implemented
 
